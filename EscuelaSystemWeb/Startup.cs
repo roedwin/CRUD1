@@ -27,7 +27,7 @@ namespace EscuelaSystemWeb
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
-            services.AddScoped<IMateriaRepository,MateriaRepository>();
+            services.AddScoped<IProductosRepository,ProductoRepository>();
             services.AddDbContext<ApplicationDbContext>(opt => opt.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddRazorPages().AddRazorRuntimeCompilation();
         }

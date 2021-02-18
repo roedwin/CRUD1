@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemWeb\\EscuelaSystemWeb.csproj": {}
+    "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemWeb\\TiendaSystemWeb.csproj": {}
   },
   "projects": {
     "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemData\\TiendaSystemData.csproj": {
@@ -32,8 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemModules\\EscuelaSystemModules.csproj": {
-                "projectPath": "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemModules\\EscuelaSystemModules.csproj"
+              "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemModules\\TiendaSystemModules.csproj": {
+                "projectPath": "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemModules\\TiendaSystemModules.csproj"
               }
             }
           }
@@ -76,12 +76,12 @@
         }
       }
     },
-    "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemModules\\EscuelaSystemModules.csproj": {
+    "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemModules\\TiendaSystemModules.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemModules\\EscuelaSystemModules.csproj",
-        "projectName": "EscuelaSystemModules",
-        "projectPath": "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemModules\\EscuelaSystemModules.csproj",
+        "projectUniqueName": "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemModules\\TiendaSystemModules.csproj",
+        "projectName": "TiendaSystemModules",
+        "projectPath": "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemModules\\TiendaSystemModules.csproj",
         "packagesPath": "C:\\Users\\Getga\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemModules\\obj\\",
         "projectStyle": "PackageReference",
@@ -140,12 +140,12 @@
         }
       }
     },
-    "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemWeb\\EscuelaSystemWeb.csproj": {
+    "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemWeb\\TiendaSystemWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemWeb\\EscuelaSystemWeb.csproj",
-        "projectName": "EscuelaSystemWeb",
-        "projectPath": "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemWeb\\EscuelaSystemWeb.csproj",
+        "projectUniqueName": "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemWeb\\TiendaSystemWeb.csproj",
+        "projectName": "TiendaSystemWeb",
+        "projectPath": "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemWeb\\TiendaSystemWeb.csproj",
         "packagesPath": "C:\\Users\\Getga\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemWeb\\obj\\",
         "projectStyle": "PackageReference",

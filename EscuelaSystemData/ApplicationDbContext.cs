@@ -11,6 +11,6 @@ namespace EscuelaSystemData
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options):base(options)
         {
         }
-        public DbSet<Materia> Materias { get; set; }
+        public DbSet<Producto> Materias { get; set; }
     }
 }

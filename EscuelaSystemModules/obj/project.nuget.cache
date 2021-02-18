@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vmjZN7n0DwpZlzVTFIgX/yJXVLh/YVQ7CoS6wyXt78gzhYiduH1vFkKMGyH8Mi7pSJmhAGuMsaJ9+PrsGXjueQ==",
+  "dgSpecHash": "fNeAkI/KSZg5RUCle9rKV/xheip6w19qnQWVgOb6uvNBrpD47k33KEtdrxO1LxSKzCbjPMDNEaX3jJMZ/vI5xw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Getga\\source\\repos\\Solution1\\EscuelaSystemModules\\EscuelaSystemModules.csproj",
+  "projectFilePath": "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemModules\\TiendaSystemModules.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Getga\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.3\\microsoft.entityframeworkcore.5.0.3.nupkg.sha512",
     "C:\\Users\\Getga\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.3\\microsoft.entityframeworkcore.abstractions.5.0.3.nupkg.sha512",

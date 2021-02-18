@@ -1740,32 +1740,32 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "EscuelaSystemData/1.0.0": {
+      "TiendaSystemData/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "EscuelaSystemModules": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.3",
-          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.3"
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.3",
+          "TiendaSystemModules": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/EscuelaSystemData.dll": {}
+          "bin/placeholder/TiendaSystemData.dll": {}
         },
         "runtime": {
-          "bin/placeholder/EscuelaSystemData.dll": {}
+          "bin/placeholder/TiendaSystemData.dll": {}
         }
       },
-      "EscuelaSystemModules/1.0.0": {
+      "TiendaSystemModules/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "5.0.3"
         },
         "compile": {
-          "bin/placeholder/EscuelaSystemModules.dll": {}
+          "bin/placeholder/TiendaSystemModules.dll": {}
         },
         "runtime": {
-          "bin/placeholder/EscuelaSystemModules.dll": {}
+          "bin/placeholder/TiendaSystemModules.dll": {}
         }
       }
     }
@@ -6424,25 +6424,25 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "EscuelaSystemData/1.0.0": {
+    "TiendaSystemData/1.0.0": {
       "type": "project",
-      "path": "../EscuelaSystemData/EscuelaSystemData.csproj",
-      "msbuildProject": "../EscuelaSystemData/EscuelaSystemData.csproj"
+      "path": "../EscuelaSystemData/TiendaSystemData.csproj",
+      "msbuildProject": "../EscuelaSystemData/TiendaSystemData.csproj"
     },
-    "EscuelaSystemModules/1.0.0": {
+    "TiendaSystemModules/1.0.0": {
       "type": "project",
-      "path": "../EscuelaSystemModules/EscuelaSystemModules.csproj",
-      "msbuildProject": "../EscuelaSystemModules/EscuelaSystemModules.csproj"
+      "path": "../EscuelaSystemModules/TiendaSystemModules.csproj",
+      "msbuildProject": "../EscuelaSystemModules/TiendaSystemModules.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "EscuelaSystemData >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 5.0.3",
       "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation >= 5.0.3",
       "Microsoft.EntityFrameworkCore >= 5.0.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.3",
-      "Microsoft.EntityFrameworkCore.Tools >= 5.0.3"
+      "Microsoft.EntityFrameworkCore.Tools >= 5.0.3",
+      "TiendaSystemData >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -6452,11 +6452,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Getga\\source\\repos\\Solution1\\EscuelaSystemWeb\\EscuelaSystemWeb.csproj",
-      "projectName": "EscuelaSystemWeb",
-      "projectPath": "C:\\Users\\Getga\\source\\repos\\Solution1\\EscuelaSystemWeb\\EscuelaSystemWeb.csproj",
+      "projectUniqueName": "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemWeb\\TiendaSystemWeb.csproj",
+      "projectName": "TiendaSystemWeb",
+      "projectPath": "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemWeb\\TiendaSystemWeb.csproj",
       "packagesPath": "C:\\Users\\Getga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Getga\\source\\repos\\Solution1\\EscuelaSystemWeb\\obj\\",
+      "outputPath": "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -6477,8 +6477,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Getga\\source\\repos\\Solution1\\EscuelaSystemData\\EscuelaSystemData.csproj": {
-              "projectPath": "C:\\Users\\Getga\\source\\repos\\Solution1\\EscuelaSystemData\\EscuelaSystemData.csproj"
+            "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemData\\TiendaSystemData.csproj": {
+              "projectPath": "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemData\\TiendaSystemData.csproj"
             }
           }
         }

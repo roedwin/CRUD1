@@ -1483,17 +1483,17 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "EscuelaSystemModules/1.0.0": {
+      "TiendaSystemModules/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "5.0.3"
         },
         "compile": {
-          "bin/placeholder/EscuelaSystemModules.dll": {}
+          "bin/placeholder/TiendaSystemModules.dll": {}
         },
         "runtime": {
-          "bin/placeholder/EscuelaSystemModules.dll": {}
+          "bin/placeholder/TiendaSystemModules.dll": {}
         }
       }
     }
@@ -5708,17 +5708,17 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "EscuelaSystemModules/1.0.0": {
+    "TiendaSystemModules/1.0.0": {
       "type": "project",
-      "path": "../EscuelaSystemModules/EscuelaSystemModules.csproj",
-      "msbuildProject": "../EscuelaSystemModules/EscuelaSystemModules.csproj"
+      "path": "../EscuelaSystemModules/TiendaSystemModules.csproj",
+      "msbuildProject": "../EscuelaSystemModules/TiendaSystemModules.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "EscuelaSystemModules >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 5.0.3",
-      "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.3"
+      "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.3",
+      "TiendaSystemModules >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5728,11 +5728,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Getga\\source\\repos\\Solution1\\EscuelaSystemData\\EscuelaSystemData.csproj",
-      "projectName": "EscuelaSystemData",
-      "projectPath": "C:\\Users\\Getga\\source\\repos\\Solution1\\EscuelaSystemData\\EscuelaSystemData.csproj",
+      "projectUniqueName": "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemData\\TiendaSystemData.csproj",
+      "projectName": "TiendaSystemData",
+      "projectPath": "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemData\\TiendaSystemData.csproj",
       "packagesPath": "C:\\Users\\Getga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Getga\\source\\repos\\Solution1\\EscuelaSystemData\\obj\\",
+      "outputPath": "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -5753,8 +5753,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Getga\\source\\repos\\Solution1\\EscuelaSystemModules\\EscuelaSystemModules.csproj": {
-              "projectPath": "C:\\Users\\Getga\\source\\repos\\Solution1\\EscuelaSystemModules\\EscuelaSystemModules.csproj"
+            "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemModules\\TiendaSystemModules.csproj": {
+              "projectPath": "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemModules\\TiendaSystemModules.csproj"
             }
           }
         }

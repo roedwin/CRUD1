@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EHFVZxMyhe70MlNlK5v73NOTRvNZys3eqE4rA7YBsa/RysMCvOnNEm1yrnxYqIf6Xb04IOxA9QZHwUR5FbemGw==",
+  "dgSpecHash": "0k03Q44RhEal6xNP2HyloL2JRtnTK/oh208VbrLJ4VXepTTSeTYUS235d/7/JM/UdtRHRima2Jn3rvPCYbbxMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Getga\\source\\repos\\Solution1\\EscuelaSystemData\\EscuelaSystemData.csproj",
+  "projectFilePath": "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemData\\TiendaSystemData.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Getga\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Getga\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

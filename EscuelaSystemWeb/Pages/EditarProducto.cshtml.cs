@@ -11,15 +11,15 @@ namespace EscuelaSystemWeb.Pages
 {
     public class EditMateriaModel : PageModel
     {
-        private readonly IMateriaRepository _materiaRepository;
+        private readonly IProductosRepository _materiaRepository;
 
-        public EditMateriaModel(IMateriaRepository materiaRepository)
+        public EditMateriaModel(IProductosRepository materiaRepository)
         {
             _materiaRepository = materiaRepository;
         }
 
         [BindProperty]
-        public Materia Materia { get; set; }
+        public Producto Materia { get; set; }
 
         public IActionResult OnGet(int id)
         {

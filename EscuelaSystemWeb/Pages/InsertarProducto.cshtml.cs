@@ -11,14 +11,14 @@ namespace EscuelaSystemWeb.Pages
 {
     public class CrearMateriaModel : PageModel
     {
-        private readonly IMateriaRepository _materiaRepository;
+        private readonly IProductosRepository _materiaRepository;
 
-        public CrearMateriaModel(IMateriaRepository materiaRepository)
+        public CrearMateriaModel(IProductosRepository materiaRepository)
         {
             _materiaRepository = materiaRepository;
         }
         [BindProperty]
-        public Materia Materia { get; set; }
+        public Producto Materia { get; set; }
 
         public void OnGet()
         {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H/f2WfaokgrGK8G9+UBi77LCXMd73YRiuSIXUIv50Izs144mN6kRWzMG01hJx0WzIw+I0EZ7pUtFb76/Pj8Gbg==",
+  "dgSpecHash": "y9A4L9PoZF+kabR+JT0jo7wJVoaLlPVHo3/2caeRHMkj0+fv79nwrRRHbwmPil2mT+2AJeJfwjdBdoBgsMhIPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Getga\\source\\repos\\Solution1\\EscuelaSystemWeb\\EscuelaSystemWeb.csproj",
+  "projectFilePath": "C:\\Users\\Getga\\source\\repos\\CRUD1\\EscuelaSystemWeb\\TiendaSystemWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Getga\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Getga\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\5.0.3\\microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.3.nupkg.sha512",
