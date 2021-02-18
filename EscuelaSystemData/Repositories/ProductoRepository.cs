@@ -6,10 +6,10 @@ using System.Text;
 
 namespace EscuelaSystemData.Repositories
 {
-    public class MateriaRepository : Repository<Materia>, IProductosRepository
+    public class ProductoRepository : Repository<Producto>, IProductosRepository
     {
         private readonly ApplicationDbContext _db;
-        public MateriaRepository(ApplicationDbContext db): base(db)
+        public ProductoRepository(ApplicationDbContext db): base(db)
         {
         }
     }
